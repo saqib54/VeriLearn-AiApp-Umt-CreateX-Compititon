@@ -5,11 +5,19 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#0D0F14",
+      "resizeMode": "contain"
+    },
     "ios": {
       "supportsTablet": true
     },
     "android": {
-      "package": "com.saqib54.verilearn"
+      "package": "com.saqib54.verilearn",
+      "backgroundColor": "#0D0F14",
+      "adaptiveIcon": {
+        "backgroundColor": "#0D0F14"
+      }
     },
     "extra": {
       "eas": {
